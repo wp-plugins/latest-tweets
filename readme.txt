@@ -14,13 +14,13 @@ but I could not find one that would display a defined number of my latest tweets
 Fortunately, creating such an easy plugin does not take much time.
 I'm glad to present you my first public wordpress plugin "latest tweets".
 
-== Requipments ==
+Requipments
 
     * php5
     * wordpress 2.1
     * widgetized theme
     
-== Features ==
+Features
 
     * Easily configured
     * Simple
