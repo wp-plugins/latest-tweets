@@ -127,8 +127,7 @@ class Latest_tweets {
 		self::display($args);		
 	}
 	
-	function register()
-	{
+	function register(){
 		register_sidebar_widget('Latest tweets', array('Latest_tweets', 'widget'));
 		register_widget_control('Latest tweets', array('Latest_tweets', 'control'));
 	}
